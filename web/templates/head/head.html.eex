@@ -1,0 +1,25 @@
+
+<div class="row">
+  <div class="header vcenter">
+    <div class="col-md-6 col-sm-12 logo-con">
+      <img src="images/logo.png" class="img-responsive" alt="logo">
+      <!-- <span class="logo">Lakeshore Electric</span> -->
+    </div>
+    <div class="col-md-6">
+      <div class="row phone-con">
+        <p class="phone pull-right">807.767.8888</p>
+      </div>
+      <div class="row payment-con">
+        <div class="col-md-6 payment pull-right">
+          <span class="pay-text">we accept:</span>
+          <img src="images/visa.png" alt="visa">
+          <img src="images/mc.png" alt="mastercard">
+          <img src="images/amex.png" alt="amex">
+        </div>
+      </div>
+      <div class="row head-text-con">
+        <p class="head-text pull-right">Serving Northwestern Ontario since 2001</p>
+      </div>
+    </div>
+  </div>
+</div>

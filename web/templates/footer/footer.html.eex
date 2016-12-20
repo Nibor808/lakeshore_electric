@@ -1,0 +1,9 @@
+<div class="row">
+  <div class="footer text-center">
+    <span>|<a href="/"> HOME </a>|</span>
+    <span><a href="/"> CONTACT </a>|</span>
+    <div>
+      <span class="copy">&copy 2016 incubo web solutions</span>
+    </div>
+  </div>
+</div>

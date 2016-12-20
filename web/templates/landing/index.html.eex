@@ -1,0 +1,74 @@
+
+<div class="row main">
+  <div class="col-md-2">
+    <img class="card-img-top img-responsive" src="images/jeff.jpg" alt="Jeff">
+    <div class="card-block jeff">
+      <h4 class="card-title">Jeff Huneau <br />Master Electrician</h4>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">15+ years experience</li>
+      <li class="list-group-item">ECRA#:</li>
+      <li class="list-group-item">License#:</li>
+    </ul>
+  </div>
+
+  <div class="col-md-10">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="services">
+          <h3>Home Wiring</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vel, voluptatum alias tenetur tempora possimus voluptatem omnis quisquam cupiditate, excepturi tempore perferendis, deserunt velit veritatis obcaecati facilis nam modi illum.
+          </p>
+        </div>
+        <a href="/wiring" type="button" class="btn btn-sm pull-right">More</a>
+      </div>
+
+      <div class="col-md-4">
+        <div class="services">
+          <h3>Alarm Installation</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vel, voluptatum alias tenetur tempora possimus voluptatem omnis quisquam cupiditate, excepturi tempore perferendis, deserunt velit veritatis obcaecati facilis nam modi illum.
+          </p>
+        </div>
+        <a href="/alarm" type="button" class="btn btn-sm pull-right">More</a>
+      </div>
+
+      <div class="col-md-4">
+        <div class="services">
+          <h3>Service Upgrades</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vel, voluptatum alias tenetur tempora possimus voluptatem omnis quisquam cupiditate, excepturi tempore perferendis, deserunt velit veritatis obcaecati facilis nam modi illum.
+          </p>
+        </div>
+        <a href="/upgrades" type="button" class="btn btn-sm pull-right">More</a>
+      </div>
+    </div>
+    <hr style="margin-top: 30px; margin-bottom: 30px;">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="services">
+          <h3>Solar</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vel, voluptatum alias tenetur tempora possimus voluptatem omnis quisquam cupiditate, excepturi tempore perferendis, deserunt velit veritatis obcaecati facilis nam modi illum.
+          </p>
+        </div>
+        <a href="/solar" type="button" class="btn btn-sm pull-right">More</a>
+      </div>
+
+      <div class="col-md-4">
+        <div class="services">
+          <h3>Retrofits</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vel, voluptatum alias tenetur tempora possimus voluptatem omnis quisquam cupiditate, excepturi tempore perferendis, deserunt velit veritatis obcaecati facilis nam modi illum.
+          </p>
+        </div>
+        <a href="/retrofits" type="button" class="btn btn-sm pull-right">More</a>
+      </div>
+
+      <div class="col-md-4">
+        <div class="services">
+          <h3>Panel Repair</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vel, voluptatum alias tenetur tempora possimus voluptatem omnis quisquam cupiditate, excepturi tempore perferendis, deserunt velit veritatis obcaecati facilis nam modi illum.
+          </p>
+        </div>
+        <a href="/panel" type="button" class="btn btn-sm pull-right">More</a>
+      </div>
+    </div>
+  </div><!-- end col-md-9 -->
+</div><!-- end row -->

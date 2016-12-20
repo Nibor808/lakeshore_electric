@@ -1,0 +1,24 @@
+
+  <div class="row main">
+    <h3>Panel Repair</h3>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3">
+      <p>IMAGE</p>
+    </div>
+    <div class="col-md-9">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum dolores perspiciatis reiciendis quod delectus, vero, odio harum, pariatur ipsa blanditiis quas dolorem ab laboriosam, omnis placeat quasi iusto veritatis sunt.
+      </p>
+      <p>
+        Ratione exercitationem magnam fugit voluptas iure deserunt eligendi ipsam ducimus quis. Earum magnam voluptate sequi enim libero recusandae veritatis facere voluptatem sed, quibusdam alias eum maiores sint ullam! Iste, vero?
+      </p>
+      <p>
+        Sint magni, id consequatur tempore quaerat ducimus modi, voluptates quia alias, dolores repellat cum laudantium. Adipisci vel, repudiandae, ut iusto reprehenderit porro dicta, quisquam laudantium odio eos alias eius facilis.
+      </p>
+      <p>
+        Officia architecto perferendis atque, nostrum saepe blanditiis iste maxime sapiente non recusandae soluta vitae impedit quia explicabo voluptate, modi laborum ipsa inventore excepturi, eos commodi quibusdam enim vero? Id, inventore!
+      </p>
+    </div>
+  </div>

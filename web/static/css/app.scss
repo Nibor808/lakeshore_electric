@@ -1,0 +1,5 @@
+/* This file is for your main application css. */
+@import "./mixins/mixins.scss";
+$icon-foont-path: "/fonts/";
+@import "bootstrap";
+@import "./_custom.scss"

@@ -1,0 +1,27 @@
+
+@mixin box-shadow($right, $bottom, $blur, $spread, $color, $inset: false) {
+
+  @if $inset {
+    -webkit-box-shadow:inset $right, $bottom, $blur, $spread, $color;
+    -moz-box-shadow:inset $right, $bottom, $blur, $spread, $color;
+    box-shadow:inset $right, $bottom, $blur, $spread, $color;
+  } @else {
+    -webkit-box-shadow: $right, $bottom, $blur, $spread, $color;
+    -moz-box-shadow: $right, $bottom, $blur, $spread, $color;
+    box-shadow: $right, $bottom, $blur, $spread, $color;
+  }
+}
+
+@mixin rounded($radius: 0.5em) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
